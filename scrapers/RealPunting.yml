@@ -4,12 +4,13 @@ sceneByURL:
   - action: scrapeXPath
     url:
       - realpunting.com/report/
-    scraper: performerScraper
+    scraper: sceneScraper
 performerByURL:
   - action: scrapeXPath
     url:
       - realpunting.com/escort/
-    scraper: sceneScraper
+    scraper: performerScraper
+
 
 xPathScrapers:
   sceneScraper:
