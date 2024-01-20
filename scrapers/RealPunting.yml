@@ -61,4 +61,4 @@ xPathScrapers:
       Image:
           selector: //img[contains(@class, 'materialboxed')]/@src
 
-# Last Updated December 06, 2023
+# Last Updated January 20, 2024
